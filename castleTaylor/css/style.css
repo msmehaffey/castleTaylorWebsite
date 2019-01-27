@@ -60,3 +60,13 @@ footer.page-footer {
 #download-button {
   margin: 20px;
 }
+
+#scrollspyOptions {
+  position: fixed;
+  right: 40px;
+  color: black;
+}
+
+nav {
+  border-bottom: 0px;
+}
