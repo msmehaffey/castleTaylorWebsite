@@ -65,6 +65,7 @@ footer.page-footer {
   position: fixed;
   right: 40px;
   color: black;
+  bottom: 300px;
 }
 
 nav {
